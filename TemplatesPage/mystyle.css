@@ -284,3 +284,21 @@ body {
 	position: relative;
 
 }
+
+.theme_description_1 {
+
+	margin-top: 50px;
+	
+
+}
+
+.body_title{
+
+	color: seagreen;
+    font-family: helvetica;
+    font-size: 15pt;
+	padding-top: 5px;
+	padding-bottom: 5px;
+
+	
+}
