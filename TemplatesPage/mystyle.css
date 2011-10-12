@@ -174,6 +174,15 @@ body {
 	
 }
 
+.link_text_alt {
+	
+	color: black;
+    font-family: helvetica;
+    font-size: 15pt;
+    font-weight: bold;
+	
+}
+
 .body_content_background {
 
 	background: #d1ffb4; /* Old browsers */
@@ -301,4 +310,31 @@ body {
 	padding-bottom: 5px;
 
 	
+}
+
+.download_button_background {
+
+	background: #deffca; /* Old browsers */
+	background: -moz-linear-gradient(top, #deffca 0%, #98ff56 65%, #85ff37 87%, #7dff2a 100%); /* FF3.6+ */
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#deffca), color-stop(65%,#98ff56), color-stop(87%,#85ff37), color-stop(100%,#7dff2a)); /* Chrome,Safari4+ */
+	background: -webkit-linear-gradient(top, #deffca 0%,#98ff56 65%,#85ff37 87%,#7dff2a 100%); /* Chrome10+,Safari5.1+ */
+	background: -o-linear-gradient(top, #deffca 0%,#98ff56 65%,#85ff37 87%,#7dff2a 100%); /* Opera11.10+ */
+	background: -ms-linear-gradient(top, #deffca 0%,#98ff56 65%,#85ff37 87%,#7dff2a 100%); /* IE10+ */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#deffca', endColorstr='#7dff2a',GradientType=0 ); /* IE6-9 */
+	background: linear-gradient(top, #deffca 0%,#98ff56 65%,#85ff37 87%,#7dff2a 100%); /* W3C */
+
+
+}
+
+.download {
+
+	Margin-top: 5px;
+	padding: 2px;
+	
+}
+
+.inaction {
+
+	Margin-top: 40px;
+		padding: 2px;
 }
